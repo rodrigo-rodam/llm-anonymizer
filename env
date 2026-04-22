@@ -1,0 +1,8 @@
+# Azure OpenAI Credentials
+AZURE_OPENAI_ENDPOINT=https://oia-rodam-canada-east.openai.azure.com
+AZURE_OPENAI_API_KEY=c2c28cfcb8fb43d0a9dc1c2bfd3f4f1d
+AZURE_OPENAI_MODEL=gpt-4o  # e.g., gpt-4o
+
+# Language API Credentials
+AZURE_LANGUAGE_ENDPOINT=https://<your-language-resource-name>.cognitiveservices.azure.com/
+AZURE_LANGUAGE_KEY=<your-language-api-key>
